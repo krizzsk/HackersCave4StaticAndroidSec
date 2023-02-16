@@ -22,3 +22,4 @@
 14. [Research on Data-driven Android Malware Troubleshooting and Android Application Vulnerability Mining](https://cdmd.cnki.com.cn/Article/CDMD-10621-1019835853.htm)
 15. [Android application taint analysis tool based on taint variable relationship graph](https://www.jos.org.cn/html/2021/6/6245.htm)
 16. [ANALYSIS OF THE FLOWS OFINFORMATION ON ANDROID](https://webcache.googleusercontent.com/search?q=cache:I0ba8pXzqBEJ:https://www.aepd.es/sites/default/files/2019-09/estudio-flujos-informacion-android.pdf&cd=2&hl=en&ct=clnk&gl=in#11)
+17. [Neural-Augmented Static Analysis ofAndroid Communication](https://webcache.googleusercontent.com/search?q=cache:lISWDglnQRUJ:https://www.cs.columbia.edu/~suman/josh_slides.pdf&cd=26&hl=en&ct=clnk&gl=in)
