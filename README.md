@@ -1,4 +1,4 @@
-<h1 align="center">HackersCave4Android</h1>
+<h1 align="center">HackersCave4StaticAndroidSec</h1>
 <p align="center">
 <img src="https://github.com/krizzsk/HackersCave4Android/blob/main/github-android.png?raw=true" alt="Image" width="600"/ height="400"></p>
 Welcome to the repository dedicated to Android static analysis for vulnerabilities. This Github repository is focused on providing all the resources and information related to static analysis of Android applications for identifying and mitigating security vulnerabilities.
