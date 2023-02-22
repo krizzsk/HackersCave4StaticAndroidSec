@@ -44,4 +44,5 @@
 36. [A Systematic Study of Android Non-SDK(Hidden) Service API Security](https://webcache.googleusercontent.com/search?q=cache:nRGdGg9Ro2wJ:https://arxiv.org/pdf/2203.09374&cd=6&hl=en&ct=clnk&gl=in&google_abuse=GOOGLE_ABUSE_EXEMPTION%3DID%3Dcb9fa21af3075f81:TM%3D1676561048:C%3Dr:IP%3D2405:201:5c0c:703f:c011:31f1:a7e6:bc78-:S%3DROnSJvU0-wiqsxn_ylH9x3o%3B+path%3D/%3B+domain%3Dgoogle.com%3B+expires%3DThu,+16-Feb-2023+18:24:08+GMT)
 37. [Uncovering Intent based Leak of Sensitive Data in AndroidFramework](https://moonzhh.github.io/files/LeakDetector.pdf)
 38. [Tracer: Signature-based Static Analysis for Detecting RecurringVulnerabilities](https://prosys.kaist.ac.kr/publications/ccs22.pdf)
+39. [Measuring the Insecurity of Mobile Deep Links of Android](https://people.cs.vt.edu/gangwang/deep17.pdf)
 
