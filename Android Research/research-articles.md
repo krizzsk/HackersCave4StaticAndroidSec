@@ -45,4 +45,5 @@
 37. [Uncovering Intent based Leak of Sensitive Data in AndroidFramework](https://moonzhh.github.io/files/LeakDetector.pdf)
 38. [Tracer: Signature-based Static Analysis for Detecting RecurringVulnerabilities](https://prosys.kaist.ac.kr/publications/ccs22.pdf)
 39. [Measuring the Insecurity of Mobile Deep Links of Android](https://people.cs.vt.edu/gangwang/deep17.pdf)
+40. [Identity Confusion in WebView-based Mobile App-in-app Ecosystems](https://yinzhicao.org/identityconfusion/identity-confusion-usenix-22.pdf)
 
