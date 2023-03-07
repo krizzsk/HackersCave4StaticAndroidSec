@@ -66,4 +66,5 @@
 66. [Chapter 12 Software Shell (4) (Code Extraction Shell)](https://blog.csdn.net/zlmm741/article/details/106173778)
 67. [Chapter 12 Software Shell (5) (code obfuscation shell)](https://blog.csdn.net/zlmm741/article/details/106173808)
 68. [Stain Analysis Technical Notes](https://ch3nye.top/%E6%B1%A1%E7%82%B9%E5%88%86%E6%9E%90%E6%8A%80%E6%9C%AF%E7%AC%94%E8%AE%B0/)
+69. [HighAltitudeHacks Blog- Has things related to Android](http://highaltitudehacks.com)
 
