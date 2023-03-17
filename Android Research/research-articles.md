@@ -47,4 +47,5 @@
 39. [Measuring the Insecurity of Mobile Deep Links of Android](https://people.cs.vt.edu/gangwang/deep17.pdf)
 40. [Identity Confusion in WebView-based Mobile App-in-app Ecosystems](https://yinzhicao.org/identityconfusion/identity-confusion-usenix-22.pdf)
 41. [Hybrid App Security Attack & Defense](http://koreahacker.org/poc2017/huiyu.pdf)
+42. [Static Data Flow Analysis for Android Applications](https://tuprints.ulb.tu-darmstadt.de/5937/7/Thesis.pdf)
 
