@@ -69,4 +69,7 @@
 69. [HighAltitudeHacks Blog- Has things related to Android](http://highaltitudehacks.com)
 70. [Mobile APP Vulnerability Automation Detection Platform Construction](https://bbs.kanxue.com/thread-212720-1.htm)
 71. [Android taint analysis tool flowdroid source code analysis](https://cloud.tencent.com/developer/article/1047091)
+72. [Adding addJavascriptInterface analysis for FlowDroid (Part 1)](https://www.leadroyal.cn/p/364/)
+73. [Adding addJavascriptInterface analysis for FlowDroid (Part 2)](https://www.leadroyal.cn/p/391/)
+74. [Adding addJavascriptInterface analysis for FlowDroid (Part 3)](leadroyal.cn/p/405/)
 
