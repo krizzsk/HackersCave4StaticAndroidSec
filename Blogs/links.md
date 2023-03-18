@@ -68,4 +68,5 @@
 68. [Stain Analysis Technical Notes](https://ch3nye.top/%E6%B1%A1%E7%82%B9%E5%88%86%E6%9E%90%E6%8A%80%E6%9C%AF%E7%AC%94%E8%AE%B0/)
 69. [HighAltitudeHacks Blog- Has things related to Android](http://highaltitudehacks.com)
 70. [Mobile APP Vulnerability Automation Detection Platform Construction](https://bbs.kanxue.com/thread-212720-1.htm)
+71. [Android taint analysis tool flowdroid source code analysis](https://cloud.tencent.com/developer/article/1047091)
 
