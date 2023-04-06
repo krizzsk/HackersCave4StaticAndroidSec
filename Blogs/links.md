@@ -72,4 +72,5 @@
 72. [Adding addJavascriptInterface analysis for FlowDroid (Part 1)](https://www.leadroyal.cn/p/364/)
 73. [Adding addJavascriptInterface analysis for FlowDroid (Part 2)](https://www.leadroyal.cn/p/391/)
 74. [Adding addJavascriptInterface analysis for FlowDroid (Part 3)](leadroyal.cn/p/405/)
+75. [Intent Spoofing on Android](http://blog.palominolabs.com/2013/05/13/android-security/index.html)
 
