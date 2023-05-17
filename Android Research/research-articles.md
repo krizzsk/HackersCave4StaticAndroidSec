@@ -49,4 +49,5 @@
 41. [Hybrid App Security Attack & Defense](http://koreahacker.org/poc2017/huiyu.pdf)
 42. [Static Data Flow Analysis for Android Applications](https://tuprints.ulb.tu-darmstadt.de/5937/7/Thesis.pdf)
 43. [A Study on the Mobile Application Security Threats and Vulnerability Analysis ](http://koreascience.or.kr/article/JAKO202034465346164.pdf)
+44. [Review of Mobile Security Problems and Defensive Methods](https://www.ripublication.com/ijaer18/ijaerv13n12_20.pdf)
 
