@@ -47,3 +47,4 @@
 47. [A Novel Custom Intent Based Approach to Improve Android Application Security for Intent Based Attacks](http://www.ijrat.org/downloads/Vol-7/march-2019/Paper%20ID-732019117.pdf)
 48. [Investigation Of Contemporary Attacks In Android Apps](https://www.ijstr.org/final-print/dec2019/Investigation-Of-Contemporary-Attacks-In-Android-Apps.pdf)
 49. [A Novel Hybrid Method to Analyze Security Vulnerabilities in Android Applications](https://www.sciopen.com/article_pdf/1497109419538391042.pdf)
+50. [Reach Me if You Can: On Native Vulnerability Reachability in Android Apps](https://pralab.diee.unica.it/sites/default/files/borzacchiello_esorics22.pdf)
