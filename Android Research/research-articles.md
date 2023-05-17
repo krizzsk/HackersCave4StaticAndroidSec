@@ -1,10 +1,5 @@
 1. [Research on Context-aware Android Application Vulnerability Detection](http://www.infocomm-journal.com/txxb/article/2021/1000-436x/1000-436x-42-11-00013.shtml) 
-
-
-
-
 2. [Demystifying the hidden sensitive operations in Android applications](https://www.x-mol.com/paper/1599816053285310464?adv)
-
 3. [Research on static flow sensitive analysis technology of Android application](https://d.wanfangdata.com.cn/thesis/Y2354497)
 4. [Android program static analysis ](https://www.ulunwen.com/archives/81812)
 5. [Malicious Android application detection method based on deep learning](https://patents.google.com/patent/CN107392025A/zh)
@@ -13,11 +8,8 @@
 8. [Research on Android application detection technology based on static code analysis ](https://wap.cnki.net/touch/web/Dissertation/Article/10013-1019042369.nh.html)
 9. [Research on Android Dynamic Testing Method Based on Static Analysis](http://cdmd.cnki.com.cn/Article/CDMD-10358-1016319871.htm)
 10. [Android GUI traversal method based on static analysis](http://www.xml-data.org/JSJYY/2016-36-10-031.htm)
-
 11. [Android application permission detection method based on static data flow analysis](http://webcache.googleusercontent.com/search?q=cache:q4zYmx53m9IJ:www.nmglib.com:8901/article/detail.aspx%3Fid%3D1003452188&cd=17&hl=en&ct=clnk&gl=in)
-
 12. [Research on Sensitive Data Leakage and Sensitive Behavior Detection Method of Android Application](https://cdmd.cnki.com.cn/Article/CDMD-10701-1022008761.htm)
-
 13. [Research on Android privacy protection technology based on application behavior detection](https://cdmd.cnki.com.cn/Article/CDMD-10358-1019133179.htm)
 14. [Research on Data-driven Android Malware Troubleshooting and Android Application Vulnerability Mining](https://cdmd.cnki.com.cn/Article/CDMD-10621-1019835853.htm)
 15. [Android application taint analysis tool based on taint variable relationship graph](https://www.jos.org.cn/html/2021/6/6245.htm)
@@ -52,4 +44,5 @@
 44. [Review of Mobile Security Problems and Defensive Methods](https://www.ripublication.com/ijaer18/ijaerv13n12_20.pdf)
 45. [Permission based Android security: Issues and countermeasures](https://ink.library.smu.edu.sg/cgi/viewcontent.cgi?referer=&httpsredir=1&article=3531&context=sis_research)
 46. [Android Application Security A Semantics and Context-Aware Approach](http://ndl.ethernet.edu.et/bitstream/123456789/59846/1/18.pdf)
+47. [A Novel Custom Intent Based Approach to Improve Android Application Security for Intent Based Attacks](http://www.ijrat.org/downloads/Vol-7/march-2019/Paper%20ID-732019117.pdf)
 
