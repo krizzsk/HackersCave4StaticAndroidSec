@@ -51,4 +51,5 @@
 43. [A Study on the Mobile Application Security Threats and Vulnerability Analysis ](http://koreascience.or.kr/article/JAKO202034465346164.pdf)
 44. [Review of Mobile Security Problems and Defensive Methods](https://www.ripublication.com/ijaer18/ijaerv13n12_20.pdf)
 45. [Permission based Android security: Issues and countermeasures](https://ink.library.smu.edu.sg/cgi/viewcontent.cgi?referer=&httpsredir=1&article=3531&context=sis_research)
+46. [Android Application Security A Semantics and Context-Aware Approach](http://ndl.ethernet.edu.et/bitstream/123456789/59846/1/18.pdf)
 
