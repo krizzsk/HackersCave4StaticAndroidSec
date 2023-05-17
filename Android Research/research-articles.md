@@ -45,4 +45,5 @@
 45. [Permission based Android security: Issues and countermeasures](https://ink.library.smu.edu.sg/cgi/viewcontent.cgi?referer=&httpsredir=1&article=3531&context=sis_research)
 46. [Android Application Security A Semantics and Context-Aware Approach](http://ndl.ethernet.edu.et/bitstream/123456789/59846/1/18.pdf)
 47. [A Novel Custom Intent Based Approach to Improve Android Application Security for Intent Based Attacks](http://www.ijrat.org/downloads/Vol-7/march-2019/Paper%20ID-732019117.pdf)
+48. [Investigation Of Contemporary Attacks In Android Apps](https://www.ijstr.org/final-print/dec2019/Investigation-Of-Contemporary-Attacks-In-Android-Apps.pdf)
 
