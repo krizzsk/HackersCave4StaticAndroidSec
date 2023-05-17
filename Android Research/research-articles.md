@@ -1,10 +1,5 @@
 1. [Research on Context-aware Android Application Vulnerability Detection](http://www.infocomm-journal.com/txxb/article/2021/1000-436x/1000-436x-42-11-00013.shtml) 
-
-
-
-
 2. [Demystifying the hidden sensitive operations in Android applications](https://www.x-mol.com/paper/1599816053285310464?adv)
-
 3. [Research on static flow sensitive analysis technology of Android application](https://d.wanfangdata.com.cn/thesis/Y2354497)
 4. [Android program static analysis ](https://www.ulunwen.com/archives/81812)
 5. [Malicious Android application detection method based on deep learning](https://patents.google.com/patent/CN107392025A/zh)
@@ -48,4 +43,5 @@
 40. [Identity Confusion in WebView-based Mobile App-in-app Ecosystems](https://yinzhicao.org/identityconfusion/identity-confusion-usenix-22.pdf)
 41. [Hybrid App Security Attack & Defense](http://koreahacker.org/poc2017/huiyu.pdf)
 42. [Static Data Flow Analysis for Android Applications](https://tuprints.ulb.tu-darmstadt.de/5937/7/Thesis.pdf)
+43. [A Study on the Mobile Application Security Threats and Vulnerability Analysis ](http://koreascience.or.kr/article/JAKO202034465346164.pdf)
 
