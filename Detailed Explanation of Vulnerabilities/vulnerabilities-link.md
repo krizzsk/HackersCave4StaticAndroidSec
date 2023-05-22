@@ -51,3 +51,5 @@
 [Two Weeks of Securing Samsung Devices Part 2](https://blog.oversecured.com/Two-weeks-of-securing-Samsung-devices-Part-2/) - This link is the second part of the two-part series on securing Samsung devices. The article continues the discussion from the first part and provides additional insights and recommendations for securing Samsung devices. 
 
 [Android WebView Component File Reading Vulnerability Analysis](https://www.freebuf.com/articles/mobile/351609.html) - In this article the author talks about The Android file reading vulnerability which is a security hole caused by the fact that the Android application does not perform adequate security checks on the file names entered by the user due to which malicious actors can access files in the Android system by constructing a special path.
+
+[Android app vulnerability classes](https://static.googleusercontent.com/media/www.google.com/en//about/appsecurity/play-rewards/Android_app_vulnerability_classes.pdf)- The document provides an overview of the most common types of vulnerabilities found in Android app
