@@ -49,3 +49,4 @@
 49. [A Novel Hybrid Method to Analyze Security Vulnerabilities in Android Applications](https://www.sciopen.com/article_pdf/1497109419538391042.pdf)
 50. [Reach Me if You Can: On Native Vulnerability Reachability in Android Apps](https://pralab.diee.unica.it/sites/default/files/borzacchiello_esorics22.pdf)
 51. [Detecting Exploitable Vulnerabilities in Android Applications](https://uwspace.uwaterloo.ca/bitstream/handle/10012/17034/Sankarapandian_Shivasurya.pdf?sequence=1)
+52. [Orchestration or automation: Authentication flaw detection in Android apps ](https://ink.library.smu.edu.sg/cgi/viewcontent.cgi?article=8654&context=sis_research)
