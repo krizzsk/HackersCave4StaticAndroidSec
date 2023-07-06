@@ -59,3 +59,4 @@
 59. [An Android Malware Detection Approach Based on Static Feature Analysis Using Machine Learning Algorithms](https://pdf.sciencedirectassets.com/280203/1-s2.0-S1877050922X00045/1-s2.0-S1877050922004999/main.pdf)
 60. [Extending EcoAndroid with Automated Detection of Resource Leaks](https://joaoff.com/publication/2022/MobileSoft/2022_MobileSoft_EcoAndroid.pdf)
 61. [An investigation study for risk calculation of security vulnerabilities on android application](https://pdfs.semanticscholar.org/af31/2547883ed2efd638170c76354d492561bbe8.pdf)
+62. [The rise of obfuscated Android malware and impacts on detection methods](https://peerj.com/articles/cs-907.pdf)
